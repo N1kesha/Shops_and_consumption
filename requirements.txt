@@ -4,4 +4,3 @@ requests
 scipy
 pyvis.network
 networkx
-warnings
