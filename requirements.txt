@@ -4,3 +4,4 @@ requests
 scipy
 pyvis.network
 networkx
+pyvis
