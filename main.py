@@ -8,7 +8,7 @@ import warnings
 #from pandas.core.common import SettingWithCopyWarning
 import networkx as nx
 from scipy.stats import gmean
-warnings.simplefilter(action="ignore", category=SettingWithCopyWarning)
+#warnings.simplefilter(action="ignore", category=SettingWithCopyWarning)
 
 with st.echo(code_location='below'):
 
