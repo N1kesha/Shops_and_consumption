@@ -5,7 +5,7 @@ import altair as alt
 from pyvis.network import Network
 import streamlit.components.v1 as components
 import warnings
-from pandas.core.common import SettingWithCopyWarning
+#from pandas.core.common import SettingWithCopyWarning
 import networkx as nx
 from scipy.stats import gmean
 warnings.simplefilter(action="ignore", category=SettingWithCopyWarning)
